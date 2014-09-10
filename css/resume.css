@@ -1,18 +1,15 @@
-center.name{
+name{
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
 }
 
-center.email{
+email{
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
 }
 
 body{
   background-color: #ccc;
   max-width: 816px;
-  
 }
 

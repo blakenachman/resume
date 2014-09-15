@@ -1,4 +1,4 @@
-name, email{
+div name, email{
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -8,7 +8,7 @@ h2{
   text-align: center;
 }
 
-location, date{
+div location, date{
   text-align: right;
 }
 

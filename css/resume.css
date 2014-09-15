@@ -17,5 +17,8 @@ body{
   background-color: #D8BFD8;
   max-width: 816px;
   font-family: "Times New Roman", Times, serif;
+  border-style: solid;
+  border-width: medium;
+  border-color: yellow;
 }
 

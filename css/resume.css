@@ -8,13 +8,10 @@ h2{
   text-align: center;
 }
 
-location{
-  
+location, date{
+  text-align: right;
 }
 
-date{
-  
-}
 
 body{
   background-color: #D8BFD8;

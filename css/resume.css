@@ -17,12 +17,12 @@ body{
   background-color: #D8BFD8;
   max-width: 816px;
   font-family: "Times New Roman", Times, serif;
-  border-style: solid;
-  border-width: medium;
-  border-color: yellow;
   padding-top: 25px;
   padding-right: 50px;
   padding-bottom: 25px;
   padding-left: 50px;
+  border-style: solid;
+  border-width: medium;
+  border-color: yellow;
 }
 

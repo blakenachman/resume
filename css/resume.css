@@ -8,8 +8,17 @@ h2{
   text-align: center;
 }
 
+location{
+  
+}
+
+date{
+  
+}
+
 body{
-  background-color: #F5DEB3;
+  background-color: #D8BFD8;
   max-width: 816px;
+  font-family: "Times New Roman", Times, serif;
 }
 
